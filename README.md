@@ -1,6 +1,7 @@
 # Movilidad urbana y productividad económica
 
-Introducción
+Introducción:
+
 Soy analista de datos en el American Development Bank.
 
 Mi equipo debe entregar un reporte para entender cómo la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) se relaciona con la productividad económica (PIB per cápita, desempleo) en las principales ciudades del mundo.
