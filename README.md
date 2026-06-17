@@ -35,7 +35,7 @@ Cada registro representa una ciudad en un año específico, lo que permite compa
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Alezgo-ui/adb_mobility_economy_project/blob/main/adb_mobility_economy_project.ipynb)
 
 O:
 
